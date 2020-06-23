@@ -1,0 +1,2 @@
+# startglobal
+Created with CodeSandbox
